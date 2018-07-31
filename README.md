@@ -29,4 +29,8 @@ HTML and CSS.
 
 This software is licensed under the GPL license.
 
+### Link to website
+
+https://michaelmeow.github.io/vermillion-sands/
+
 Copyright (c) 2016 **Michael Harmon and Terrance Hope**
